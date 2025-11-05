@@ -1,4 +1,4 @@
-# Inspector-Safe
+# Aegis Audit
 
 Inspector-Safe is a non-destructive, authorization-first auditing tool for passive enumeration and configuration checks.
 It is intended for legal, consented security assessments only. Use only with explicit written authorization.
